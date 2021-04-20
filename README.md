@@ -1,2 +1,2 @@
-# pojet-quiz-js
+# projet-quiz-js
 Premier projet 
